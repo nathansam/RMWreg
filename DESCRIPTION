@@ -9,6 +9,8 @@ Description: Accelerated failure times survival regression using Rate Mixtures o
 License: License: GPL (>= 2)
 Depends:
     R (>= 3.5),
+    Rcpp,
+    RcppArmadillo
 Imports:
     Rcpp (>= 0.12.5)
 Suggests:
