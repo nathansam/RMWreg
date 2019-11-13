@@ -14,6 +14,7 @@ Depends:
 Imports:
     Rcpp (>= 0.12.5)
 Suggests:
+    KMsurv,
     knitr,
     testthat
 LinkingTo: 
